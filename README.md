@@ -1,4 +1,5 @@
-![picture](images/Rock-Scissors-Paper.png)
+**<h1 align="center">RockScissorsPaper</h1>**
 
-# RockScissorsPaper
-This is a simple console game "Rock Scissors Paper".
+![picture](Rock-Scissors-Paper.png)
+
+**This is a simple console game "Rock Scissors Paper".**
